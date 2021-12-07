@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ImageUploadTest</string>
+    <string name="facebook_app_id">176128654607464</string>
+    <string name="facebook_client_token">9456172c369ce5ae13202b085f25265d</string>
 </resources>
